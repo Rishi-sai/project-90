@@ -1,0 +1,12 @@
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid pink;
+    
+    float:none;
+    text-align: left;
+    padding: 10px;
+}
+body{
+    background-color: rgb(85, 124, 231);
+}

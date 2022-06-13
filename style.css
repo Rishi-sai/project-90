@@ -1,0 +1,23 @@
+body{
+   background-color:rgb(255, 174, 187);
+    text-align: center;
+}
+h1{
+    font-size:50px;
+}
+div{
+    
+    margin: 20px;
+
+}
+.login_div1{
+    margin-left: 160px;
+  
+    border-radius: 20px;
+}
+.login_div2{
+    
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
